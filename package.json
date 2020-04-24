@@ -1,7 +1,7 @@
 {
-  "name": "clitest",
-  "version": "1.0.0",
-  "description": "cli test deomo",
+  "name": "<%= name %>",
+  "version": "<%= version %>",
+  "description": "<%= description %>",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production --config ./build/webpack.prod.js",
